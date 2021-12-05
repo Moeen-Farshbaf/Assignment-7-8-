@@ -170,9 +170,5 @@ nav{
     height: 30vh;
     min-height: 0;
   }
-  .cover img {
-    min-height: 0;
-    justify-content: center;
-    height: 100%;
-  }
+
 }
